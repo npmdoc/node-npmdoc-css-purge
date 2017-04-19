@@ -1,9 +1,14 @@
-# api documentation for  [css-purge (v1.1.1)](https://github.com/rbtech/css-purge)  [![npm package](https://img.shields.io/npm/v/npmdoc-css-purge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-css-purge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-css-purge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-css-purge)
+# npmdoc-css-purge
+
+#### api documentation for  [css-purge (v1.1.1)](https://github.com/rbtech/css-purge)  [![npm package](https://img.shields.io/npm/v/npmdoc-css-purge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-css-purge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-css-purge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-css-purge)
+
 #### A command line Node JS app for the removal of duplicate CSS rules and or properties.
 
-[![NPM](https://nodei.co/npm/css-purge.png?downloads=true)](https://www.npmjs.com/package/css-purge)
+[![NPM](https://nodei.co/npm/css-purge.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/css-purge)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-css-purge/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-css-purge_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-css-purge/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-css-purge/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-css-purge/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-css-purge/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-css-purge/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-css-purge/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Andrew Quan",
-        "email": "AndrewQ@RedBlueprint.com"
+        "name": "Andrew Quan"
     },
     "bin": {
         "css-purge": "./bin/css-purge"
@@ -56,13 +60,11 @@
     ],
     "maintainers": [
         {
-            "name": "andrewq",
-            "email": "AndrewQ@RedBlueprint.com"
+            "name": "andrewq"
         }
     ],
     "name": "css-purge",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/rbtech/css-purge.git"
@@ -70,16 +72,6 @@
     "version": "1.1.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module css-purge](#apidoc.module.css-purge)
-
-
-
-# <a name="apidoc.module.css-purge"></a>[module css-purge](#apidoc.module.css-purge)
 
 
 
