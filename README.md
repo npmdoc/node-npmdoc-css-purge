@@ -1,6 +1,6 @@
 # npmdoc-css-purge
 
-#### api documentation for  [css-purge (v1.1.1)](https://github.com/rbtech/css-purge)  [![npm package](https://img.shields.io/npm/v/npmdoc-css-purge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-css-purge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-css-purge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-css-purge)
+#### api documentation for  css-purge (v1.1.1)  [![npm package](https://img.shields.io/npm/v/npmdoc-css-purge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-css-purge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-css-purge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-css-purge)
 
 #### A command line Node JS app for the removal of duplicate CSS rules and or properties.
 
@@ -21,28 +21,9 @@
 ```json
 
 {
-    "author": {
-        "name": "Andrew Quan"
-    },
-    "bin": {
-        "css-purge": "./bin/css-purge"
-    },
-    "bugs": {
-        "url": "https://github.com/rbtech/css-purge/issues"
-    },
-    "dependencies": {
-        "cli-color": "0.2.2",
-        "commander": "1.1.1",
-        "css-parse": "1.1.0"
-    },
+    "name": "css-purge",
+    "version": "1.1.1",
     "description": "A command line Node JS app for the removal of duplicate CSS rules and or properties.",
-    "devDependencies": {},
-    "directories": {},
-    "dist": {
-        "shasum": "7abfae92a59857b308d96b0af7e2bf5bd4f273c9",
-        "tarball": "https://registry.npmjs.org/css-purge/-/css-purge-1.1.1.tgz"
-    },
-    "homepage": "https://github.com/rbtech/css-purge",
     "keywords": [
         "css",
         "purge",
@@ -58,18 +39,28 @@
         "duplicate rules",
         "duplicate properties"
     ],
-    "maintainers": [
-        {
-            "name": "andrewq"
-        }
-    ],
-    "name": "css-purge",
-    "optionalDependencies": {},
+    "author": {
+        "name": "Andrew Quan"
+    },
+    "bin": {
+        "css-purge": "./bin/css-purge"
+    },
+    "dependencies": {
+        "cli-color": "0.2.2",
+        "commander": "1.1.1",
+        "css-parse": "1.1.0"
+    },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/rbtech/css-purge.git"
+        "url": "https://github.com/rbtech/css-purge.git"
     },
-    "version": "1.1.1"
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/rbtech/css-purge/issues"
+    },
+    "dist": {
+        "shasum": "65c5273e8f9e2eb017a729c1a60c5f779d74e841"
+    }
 }
 ```
 
